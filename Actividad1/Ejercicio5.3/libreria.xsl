@@ -11,15 +11,16 @@
                 <th>Precio</th>
                 <th>ISBN</th>
             </tr>
-            <!-- <xsl:for-each select="libreria/libros[autor='Alberto Sánchez']" > -->
-            <xsl:for-each select="libreria/libros[autor!='Alberto Sánchez']" >
-            <xsl:sort select="precio" data-type="number"/>
+            <xsl:for-each select="libreria/libros[autor='Sergio Mateos']">
+            <!-- <xsl:if test="precio &gt; 10" data-type="number"> -->
+            <xsl:if test="precio &gt; 12" data-type="number">
             <tr>
                 <td><xsl:value-of select="titulo"/></td>
                 <td><xsl:value-of select="autor"/></td>
                 <td><xsl:value-of select="precio"/></td>
                 <td><xsl:value-of select="codLibro"/></td>
             </tr>
+        </xsl:if>
         </xsl:for-each>   
         </table>
     </body>
