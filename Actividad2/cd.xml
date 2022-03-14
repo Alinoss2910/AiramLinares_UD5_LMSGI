@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet href="cd_p4.xsl" type="text/xsl"?>
+<cds>
+    <cd>
+        <titulo>Ni Chance Ni Try</titulo>
+        <artista>Swan Fyahbwoy</artista>
+        <cancion tiempo="169">Nuh Real Shotta</cancion>
+        <cancion tiempo="204">Alianza No Trata</cancion>
+        <cancion tiempo="172">Los Bwoys</cancion>
+        <cancion tiempo="185">Avecina Tormenta</cancion>
+        <cancion tiempo="169">Por Fumar</cancion>
+        <sello>La Tanda Music</sello>
+        <anyo>2006</anyo>
+    </cd>
+    <cd>
+        <titulo>Innadiflames</titulo>
+        <artista>Swan Fyahbwoy</artista>
+        <cancion tiempo="229">Innadiflames</cancion>
+        <cancion tiempo="276">Reggae Liphe</cancion>
+        <cancion tiempo="203">Fenomenal(Atontada)</cancion>
+        <cancion tiempo="183">Fuma Weed</cancion>
+        <cancion tiempo="209">A Veces</cancion>
+        <cancion tiempo="202">Fashion Victims</cancion>
+        <cancion tiempo="245">Alianza No Trata Pt II</cancion>
+        <cancion tiempo="304">Malienatería</cancion>
+        <cancion tiempo="219">Ya Te Avisé</cancion>
+        <cancion tiempo="225">Isopropanol</cancion>
+        <cancion tiempo="271">No Estamos Creyendo</cancion>
+        <cancion tiempo="198">Nuestros Días</cancion>
+        <cancion tiempo="250">Politics Dem</cancion>
+        <sello>Fyahbwoy Music</sello>
+        <anyo>2009</anyo>
+    </cd>
+    <cd>
+        <titulo>Extremely Flammable</titulo>
+        <artista>Swan Fyahbwoy</artista>
+        <cancion tiempo="229">Peso pesao</cancion>
+        <cancion tiempo="205">Por si querias aprender</cancion>
+        <cancion tiempo="259">Sin anesthesia</cancion>
+        <cancion tiempo="159">Am a Warrior</cancion>
+        <cancion tiempo="203">Luv Dem Ting</cancion>
+        <sello>Fyahbwoy Music</sello>
+        <anyo>2012</anyo>
+    </cd>
+    <cd>
+        <titulo>Bl4qkfy4h</titulo>
+        <artista>Swan Fyahbwoy</artista>
+        <cancion tiempo="307">Al 100%</cancion>
+        <cancion tiempo="201">Me Dicen Fyahbwoy</cancion>
+        <cancion tiempo="195">1979</cancion>
+        <cancion tiempo="154">Pull Up</cancion>
+        <cancion tiempo="234">Hablando de Weed</cancion>
+        <sello>Fyahbwoy</sello>
+        <anyo>2015</anyo>
+    </cd>
+    <cd>
+        <titulo>F.Y.A.H</titulo>
+        <artista>Swan Fyahbwoy</artista>
+        <cancion tiempo="307">Mi Código</cancion>
+        <cancion tiempo="204">Me Dice Que No</cancion>
+        <cancion tiempo="295">Vatos</cancion>
+        <cancion tiempo="354">Soy Un Niño</cancion>
+        <cancion tiempo="224">Gettin' Ready</cancion>
+        <sello>Fyahbwoy</sello>
+        <anyo>2015</anyo>
+    </cd>
+    <cd>
+        <titulo>Equilivrium</titulo>
+        <artista>Swan Fyahbwoy</artista>
+        <cancion tiempo="290">Aire</cancion>
+        <cancion tiempo="234">Ánimas</cancion>
+        <cancion tiempo="253">Surcando el Mundo</cancion>
+        <cancion tiempo="237">Frio en el Ártico</cancion>
+        <cancion tiempo="239">Don't Cry</cancion>
+        <sello>La Tanda Music</sello>
+        <anyo>2022</anyo>
+    </cd>
+    <cd>
+        <titulo>Ozmlstayl</titulo>
+        <artista>Morodo</artista>
+        <cancion tiempo="356">Reggae Music</cancion>
+        <cancion tiempo="406">Pilla Cacho</cancion>
+        <cancion tiempo="336">Crazy Staylo</cancion>
+        <cancion tiempo="355">Decisiones al Filo</cancion>
+        <cancion tiempo="255">No Vale la Pena</cancion>
+        <sello>Mad91</sello>
+        <anyo>2001</anyo>
+    </cd>
+    <cd>
+        <titulo>Cosas que Contarte</titulo>
+        <artista>Morodo</artista>
+        <cancion tiempo="141">Apertura</cancion>
+        <cancion tiempo="416">Mas Yama</cancion>
+        <cancion tiempo="404">Yo me pregunto</cancion>
+        <cancion tiempo="335">¿Que vas ha hacer?</cancion>
+        <cancion tiempo="253">Querido Enemigo</cancion>
+        <sello>Taifa Records</sello>
+        <anyo>2004</anyo>
+    </cd>
+    <cd>
+        <titulo>Siempre Fuertes</titulo>
+        <artista>SFDK</artista>
+        <cancion tiempo="151">1 cada 20</cancion>
+        <cancion tiempo="436">A mi no me lo cuentes</cancion>
+        <cancion tiempo="404">Nacido en el Asfalto</cancion>
+        <cancion tiempo="335">Oscar Domina</cancion>
+        <cancion tiempo="253">Asi te talo asi te podo</cancion>
+        <sello>Zona Bruta</sello>
+        <anyo>1999</anyo>
+    </cd>
+    <cd>
+        <titulo>Sin Miedo a Vivir</titulo>
+        <artista>SFDK</artista>
+        <cancion tiempo="231">Personal Trainer</cancion>
+        <cancion tiempo="216">Sin Miedo a Vivir</cancion>
+        <cancion tiempo="196">Lo Intenté</cancion>
+        <cancion tiempo="335">Bajo el Mismo Sol</cancion>
+        <cancion tiempo="247">Cantando Bajo la Vida</cancion>
+        <sello>Boa Musica</sello>
+        <anyo>2014</anyo>
+    </cd>
+</cds>
