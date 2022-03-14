@@ -6,11 +6,11 @@
                 <h1>Biblioteca personal de Airam Linares</h1>
                 <table border="1">
                     <tr bgcolor="gray">
-                        <th>Título del álbum</th>
+                        <th>Album</th>
                         <th>Artista</th>
                         <th>Cancion</th>
-                        <th>Sello discográfico</th>
-                        <th>Año de publicación</th>
+                        <th>Sello</th>
+                        <th>Año</th>
                         <th>Duracion</th>
                     </tr>
                     <xsl:for-each select="cds/cd">
